@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #616161;
+  font-family: 'Catamaran', sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.introduction-block {
+  padding: 45px 25px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.introduction-block h1{
+  font-weight: 200;
+  color: #333;
+}
+
+ul {
+  margin: 0;
+  padding: 15px;
+  list-style: none;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
